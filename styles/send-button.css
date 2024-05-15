@@ -1,0 +1,9 @@
+.send-button{
+    border-radius: 15%;
+    padding:"10px";
+  border:"none";
+  background-color: rgb(202, 219, 246) ;
+  color:black;
+  border-radius: 10%;
+
+}

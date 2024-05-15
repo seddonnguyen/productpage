@@ -1,0 +1,12 @@
+.popup {
+    position: fixed;
+    top: 20px;
+    left: 30px;
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(48, 115, 163);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    z-index: 1000;
+    display: none;
+}
